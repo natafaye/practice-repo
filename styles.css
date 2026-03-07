@@ -3,10 +3,6 @@
 }
 
 body {
-    background-color: rgb(20, 17, 17);
-    color: rgb(222, 210, 210);
-}
-
-.red-button {
-    background-color: red;
+    background-color: white;
+    color: red
 }
