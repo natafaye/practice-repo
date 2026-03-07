@@ -1,8 +1,12 @@
 .green-button {
-    background-color: green;
+    background-color: rgb(106, 187, 106);
 }
 
 body {
-    background-color: black;
+    background-color: rgb(20, 17, 17);
     color: rgb(222, 210, 210);
+}
+
+.red-button {
+    background-color: red;
 }
